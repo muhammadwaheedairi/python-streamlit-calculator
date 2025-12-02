@@ -2,7 +2,7 @@
 
 This is a simple calculator application built with Python and the Streamlit library. It provides a clean and user-friendly web interface for performing basic and some advanced arithmetic operations.
 
-**This project was created using [Gemini CLI](https://github.com/google/gemini-cli), an AI-powered command line tool, to generate the code and structure.**
+**This project was created using [Gemini CLI](https://geminicli.com/), an AI-powered command line tool, to generate the code and structure.**
 
 Check out the live app here: [https://calculator-demo-app.streamlit.app/](https://calculator-demo-app.streamlit.app/)
 
